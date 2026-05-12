@@ -2,8 +2,8 @@
 
 A production-grade Kanban board built with **React**, **TypeScript**, and **Tailwind CSS** — designed to demonstrate clean component architecture, custom state management, and polished UI/UX.
 
-🔗 **Live Demo:** https://your-app.vercel.app
-💻 **GitHub:** https://github.com/Shubh8650/kanban-board
+🔗 **Live Demo:** themed-kanban-board.vercel.app
+💻 **GitHub:** https://github.com/Shubh8650/themed-kanban-board
 
 ---
 
